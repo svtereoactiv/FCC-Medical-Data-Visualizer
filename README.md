@@ -1,4 +1,4 @@
-## Demographic Data Analyzer
+## Medical Data Analyzer
 
 *This project is part of "Data Analyst with Python" course provided by freecodecamp and is required as the accomplishment criteria.*
 
